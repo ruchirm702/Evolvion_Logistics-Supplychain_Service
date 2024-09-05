@@ -1,2 +1,2 @@
-# Evolvion_Logistics_Supplychain_Service
+# Evolvion_Logistic_Service
 Buisness managment - Logistics Supplychain Microservice
